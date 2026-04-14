@@ -2,6 +2,7 @@ import java.util.*;
 
 public class Strings3 {
     public static void main(String[] args) {
+        //Length
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter you first name:");
         String first_name=sc.nextLine();
