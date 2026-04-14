@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Strings4 {
     public static void main(String[] args) {
-        //CharAt
+        //CharAt(print all characters)
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter you first name:");
         String first_name=sc.nextLine();
